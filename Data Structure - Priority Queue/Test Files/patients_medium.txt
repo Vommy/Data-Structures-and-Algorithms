@@ -1,0 +1,10 @@
+Michael Howard,9,low
+Amanda Lopez,91,medium
+Jesse Curry,7,high
+John Schmidt,25,medium
+Emily Hughes,84,low
+Nicholas Riddle,56,medium
+Amy Lester,52,low
+Chad Rodgers,25,high
+Stephanie Gross,39,medium
+Kim Huff,19,medium

@@ -1,0 +1,5 @@
+Michael Howard,9,low
+Amanda Lopez,91,medium
+Jesse Curry,7,high
+John Schmidt,25,medium
+Emily Hughes,84,low
